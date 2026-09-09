@@ -1,3 +1,3 @@
 # demohaha
-this my first reppository
-
+this my first repository
+i am learning github
